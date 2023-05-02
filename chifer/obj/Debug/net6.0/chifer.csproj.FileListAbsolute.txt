@@ -1,0 +1,15 @@
+D:\Pr\Шифр да\chifer\chifer\bin\Debug\net6.0\chifer.exe
+D:\Pr\Шифр да\chifer\chifer\bin\Debug\net6.0\chifer.deps.json
+D:\Pr\Шифр да\chifer\chifer\bin\Debug\net6.0\chifer.runtimeconfig.json
+D:\Pr\Шифр да\chifer\chifer\bin\Debug\net6.0\chifer.dll
+D:\Pr\Шифр да\chifer\chifer\bin\Debug\net6.0\chifer.pdb
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.csproj.AssemblyReference.cache
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.AssemblyInfoInputs.cache
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.AssemblyInfo.cs
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.csproj.CoreCompileInputs.cache
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.dll
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\refint\chifer.dll
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.pdb
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\chifer.genruntimeconfig.cache
+D:\Pr\Шифр да\chifer\chifer\obj\Debug\net6.0\ref\chifer.dll
